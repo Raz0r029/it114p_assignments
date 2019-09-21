@@ -1,7 +1,7 @@
 {
-  "name": "assignment_3",
+  "name": "assignment_4",
   "version": "1.0.0",
-  "description": "Assignment 3 - Make use of MVC Structure to our web project",
+  "description": "Make use of CSS Framework to our web project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,20 @@
   "author": "Payawal, Franz Gian S.",
   "license": "ISC",
   "dependencies": {
+    "@mdi/font": "^4.4.95",
+    "bulma": "^0.7.5",
     "ejs": "^2.7.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raz0r029/it114p_assignments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raz0r029/it114p_assignments/issues"
+  },
+  "homepage": "https://github.com/Raz0r029/it114p_assignments#readme"
 }

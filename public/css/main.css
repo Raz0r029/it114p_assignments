@@ -1,0 +1,18 @@
+.navbar.is-blue {
+    background-color: #4285F4;
+    color: #ffffff
+}
+
+.button.is-link.is-hovered, .button.is-link:hover {
+    background-color: #5788d6;
+    border-color: transparent;
+    color: #fff;
+}
+
+.navbar-link.is-active, a.navbar-item.is-active {
+    color: #FBBC05;
+}
+
+.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
+    background-color: #8ba7d3;
+}
